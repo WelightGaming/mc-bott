@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "username": "hehe",
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "Arjun55.aternos.me",
+    "port": 56712,
+    "version": "1.8.9"
   },
 
   "position": {
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": false,
-      "password": "12345678"
+      "password": ""
     },
 
     "anti-afk": {
